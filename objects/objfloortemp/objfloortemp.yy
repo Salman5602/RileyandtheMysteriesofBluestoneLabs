@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Object1",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"objfloortemp",
+  "eventList":[],
   "managed":true,
-  "name":"Object1",
+  "name":"objfloortemp",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -29,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"sprfloortemp",
+    "path":"sprites/sprfloortemp/sprfloortemp.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
