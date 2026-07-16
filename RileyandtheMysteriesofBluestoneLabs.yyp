@@ -40,6 +40,8 @@
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"sprfloortemp","path":"sprites/sprfloortemp/sprfloortemp.yy",},},
     {"id":{"name":"sprplayeridle","path":"sprites/sprplayeridle/sprplayeridle.yy",},},
+    {"id":{"name":"sprplayerjump","path":"sprites/sprplayerjump/sprplayerjump.yy",},},
+    {"id":{"name":"sprplayerwalk","path":"sprites/sprplayerwalk/sprplayerwalk.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
