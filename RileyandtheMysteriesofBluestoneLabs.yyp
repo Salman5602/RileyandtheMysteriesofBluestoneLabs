@@ -36,7 +36,6 @@
   "name":"RileyandtheMysteriesofBluestoneLabs",
   "resources":[
     {"id":{"name":"objcoin","path":"objects/objcoin/objcoin.yy",},},
-    {"id":{"name":"objfloortemp","path":"objects/objfloortemp/objfloortemp.yy",},},
     {"id":{"name":"objplayer","path":"objects/objplayer/objplayer.yy",},},
     {"id":{"name":"objpowerup","path":"objects/objpowerup/objpowerup.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
