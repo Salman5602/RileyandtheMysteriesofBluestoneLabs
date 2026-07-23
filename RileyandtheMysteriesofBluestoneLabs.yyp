@@ -35,10 +35,12 @@
   },
   "name":"RileyandtheMysteriesofBluestoneLabs",
   "resources":[
+    {"id":{"name":"objcloud","path":"objects/objcloud/objcloud.yy",},},
     {"id":{"name":"objcoin","path":"objects/objcoin/objcoin.yy",},},
     {"id":{"name":"objplayer","path":"objects/objplayer/objplayer.yy",},},
     {"id":{"name":"objpowerup","path":"objects/objpowerup/objpowerup.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"sprcloud","path":"sprites/sprcloud/sprcloud.yy",},},
     {"id":{"name":"sprcoin","path":"sprites/sprcoin/sprcoin.yy",},},
     {"id":{"name":"sprfloortemp","path":"sprites/sprfloortemp/sprfloortemp.yy",},},
     {"id":{"name":"sprplayeridle","path":"sprites/sprplayeridle/sprplayeridle.yy",},},
